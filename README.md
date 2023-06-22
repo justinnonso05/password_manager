@@ -1,4 +1,5 @@
 **Password manager with python**
+
 For storing passwords for various sites and applications.
 Provides an export function to export password to text file 
 
